@@ -1,0 +1,16 @@
+C:\Users\leydi\OneDrive\Documents\pruebaTecnica\Inventory\Inventory.application\bin\Debug\net8.0\Inventory.application.deps.json
+C:\Users\leydi\OneDrive\Documents\pruebaTecnica\Inventory\Inventory.application\bin\Debug\net8.0\Inventory.application.dll
+C:\Users\leydi\OneDrive\Documents\pruebaTecnica\Inventory\Inventory.application\bin\Debug\net8.0\Inventory.application.pdb
+C:\Users\leydi\OneDrive\Documents\pruebaTecnica\Inventory\Inventory.application\bin\Debug\net8.0\Inventory.domain.dll
+C:\Users\leydi\OneDrive\Documents\pruebaTecnica\Inventory\Inventory.application\bin\Debug\net8.0\Inventory.domain.pdb
+C:\Users\leydi\OneDrive\Documents\pruebaTecnica\Inventory\Inventory.application\obj\Debug\net8.0\Inventory.application.csproj.AssemblyReference.cache
+C:\Users\leydi\OneDrive\Documents\pruebaTecnica\Inventory\Inventory.application\obj\Debug\net8.0\Inventory.application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leydi\OneDrive\Documents\pruebaTecnica\Inventory\Inventory.application\obj\Debug\net8.0\Inventory.application.AssemblyInfoInputs.cache
+C:\Users\leydi\OneDrive\Documents\pruebaTecnica\Inventory\Inventory.application\obj\Debug\net8.0\Inventory.application.AssemblyInfo.cs
+C:\Users\leydi\OneDrive\Documents\pruebaTecnica\Inventory\Inventory.application\obj\Debug\net8.0\Inventory.application.csproj.CoreCompileInputs.cache
+C:\Users\leydi\OneDrive\Documents\pruebaTecnica\Inventory\Inventory.application\obj\Debug\net8.0\Inventory.application.sourcelink.json
+C:\Users\leydi\OneDrive\Documents\pruebaTecnica\Inventory\Inventory.application\obj\Debug\net8.0\Inventor.4DD8DA25.Up2Date
+C:\Users\leydi\OneDrive\Documents\pruebaTecnica\Inventory\Inventory.application\obj\Debug\net8.0\Inventory.application.dll
+C:\Users\leydi\OneDrive\Documents\pruebaTecnica\Inventory\Inventory.application\obj\Debug\net8.0\refint\Inventory.application.dll
+C:\Users\leydi\OneDrive\Documents\pruebaTecnica\Inventory\Inventory.application\obj\Debug\net8.0\Inventory.application.pdb
+C:\Users\leydi\OneDrive\Documents\pruebaTecnica\Inventory\Inventory.application\obj\Debug\net8.0\ref\Inventory.application.dll

@@ -1,0 +1,12 @@
+C:\Users\leydi\OneDrive\Documents\pruebaTecnica\Inventory\Inventory.domain\bin\Debug\net8.0\Inventory.domain.deps.json
+C:\Users\leydi\OneDrive\Documents\pruebaTecnica\Inventory\Inventory.domain\bin\Debug\net8.0\Inventory.domain.dll
+C:\Users\leydi\OneDrive\Documents\pruebaTecnica\Inventory\Inventory.domain\bin\Debug\net8.0\Inventory.domain.pdb
+C:\Users\leydi\OneDrive\Documents\pruebaTecnica\Inventory\Inventory.domain\obj\Debug\net8.0\Inventory.domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leydi\OneDrive\Documents\pruebaTecnica\Inventory\Inventory.domain\obj\Debug\net8.0\Inventory.domain.AssemblyInfoInputs.cache
+C:\Users\leydi\OneDrive\Documents\pruebaTecnica\Inventory\Inventory.domain\obj\Debug\net8.0\Inventory.domain.AssemblyInfo.cs
+C:\Users\leydi\OneDrive\Documents\pruebaTecnica\Inventory\Inventory.domain\obj\Debug\net8.0\Inventory.domain.csproj.CoreCompileInputs.cache
+C:\Users\leydi\OneDrive\Documents\pruebaTecnica\Inventory\Inventory.domain\obj\Debug\net8.0\Inventory.domain.sourcelink.json
+C:\Users\leydi\OneDrive\Documents\pruebaTecnica\Inventory\Inventory.domain\obj\Debug\net8.0\Inventory.domain.dll
+C:\Users\leydi\OneDrive\Documents\pruebaTecnica\Inventory\Inventory.domain\obj\Debug\net8.0\refint\Inventory.domain.dll
+C:\Users\leydi\OneDrive\Documents\pruebaTecnica\Inventory\Inventory.domain\obj\Debug\net8.0\Inventory.domain.pdb
+C:\Users\leydi\OneDrive\Documents\pruebaTecnica\Inventory\Inventory.domain\obj\Debug\net8.0\ref\Inventory.domain.dll
